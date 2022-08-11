@@ -46,13 +46,6 @@ html{
 	margin: auto;
 }
 
-#text{
-	text-align: center;
-	margin-top: 10px;
-	font-family: "Ink Free", "MV Boli", sans-serif;
-	font-weight: bold;
-}
-
 #txtbody{
 	text-align: center;
 	margin-top: 10px;
@@ -60,5 +53,13 @@ html{
 	margin-right: 150px;
 	font-family: "Ink Free", "MV Boli", sans-serif;
 	font-weight: bold;
-	
+
+}
+
+div.list{
+	text-align: center;
+}
+ul.ulist{
+	display: inline-block;
+	text-align: left;
 }
