@@ -63,3 +63,9 @@ ul.ulist{
 	display: inline-block;
 	text-align: left;
 }
+
+img.projectPictures{
+	padding: 20px;
+	display: block;
+	margin: auto;
+}
