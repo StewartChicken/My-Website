@@ -69,3 +69,11 @@ img.projectPictures{
 	display: block;
 	margin: auto;
 }
+
+iframe{
+	margin: 0 auto;
+	width: 800px;
+	height: 800px;
+	display: block;
+	border-style: none;
+}
